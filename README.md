@@ -1,1 +1,1 @@
-<h1>Gogle is now FrontRub.</h1>
+Welcome to FrontRub!
